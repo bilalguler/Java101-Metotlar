@@ -8,3 +8,6 @@ olup olmadığını metotları kullanarak hazırladım ve çıktı olarakta anla
 
 * Patika.dev üzerinde Metotlar kısmında ödev olan Gelişmiş Hesap Makinesi'ni ödevini eksik bırakılan yerleri tamamlayıp
 bir iki ufak ekleme yaptım.
+
+* Patika.dev üzerinde Metotlar kısmında ödev olan Üs Hesabı Yapan Program'ı belirtildiği gibi yaptım ve programım kulla-
+nıcıdan alınan taban ve üs sayısına göre sonucu hesaplıyor.
