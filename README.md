@@ -11,3 +11,6 @@ bir iki ufak ekleme yaptım.
 
 * Patika.dev üzerinde Metotlar kısmında ödev olan Üs Hesabı Yapan Program'ı belirtildiği gibi yaptım ve programım kulla-
 nıcıdan alınan taban ve üs sayısına göre sonucu hesaplıyor.
+
+* Patika.dev üzerinde Metotlar kısmında ödev olan Asal Sayı Bulan Program'ı belirtildiği gibi Recursive metot kullanarak
+ödevimi yaptım. Ödev kullanıcıdan alınan sayının asal sayı olup olmadığını inceliyor ve çıktı olarak kullanıcıya veriyor.
