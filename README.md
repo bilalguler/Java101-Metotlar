@@ -14,3 +14,7 @@ nıcıdan alınan taban ve üs sayısına göre sonucu hesaplıyor.
 
 * Patika.dev üzerinde Metotlar kısmında ödev olan Asal Sayı Bulan Program'ı belirtildiği gibi Recursive metot kullanarak
 ödevimi yaptım. Ödev kullanıcıdan alınan sayının asal sayı olup olmadığını inceliyor ve çıktı olarak kullanıcıya veriyor.
+
+* Patika.dev üzerinde Metotlar kısmında ödev olan Desene Göre Metot Oluşturma'yı Recursive metodunu kullanrak yaptım. Bu
+programım kullanıcıdan alınan sayıyı 0'a eşit ya da küçük olana dek 5 azaltıyor ve sonrasında da eski haline gelene kadar
+5 arttırmaya devam ediyor.
